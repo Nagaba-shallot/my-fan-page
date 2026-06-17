@@ -7,7 +7,7 @@ export default function CardGrid({items}){
         <div className={styles.grid}>
             {items.map((item) => (
                 <Link href={"/faves/" + item.id} key={item.id}>
-                    <Card name={item.name} blurb={item.blurb} rating={item.rating} emoji={item.emoji} />
+                    <Card name={item.name} blurb={item.blurb} rating={item.rating} emoji={item.emoji} image={item.image} />
                 </Link>
                 
             ))}
