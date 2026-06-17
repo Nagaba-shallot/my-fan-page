@@ -6,6 +6,7 @@ export const items = [
       "Enter the brutal and elite War College for dragon riders, where first-year student Violet Sorrengail must survive ruthless peers, unforgiving dragons, and the devastating secrets kept by the academy's leadership.",
     rating: 4.6,
     emoji: "🐉🔥⚔️⚡🛡️",
+    image: "/fourthwing.jpeg"
   },
   {
     id: 2,
@@ -14,6 +15,7 @@ export const items = [
       "Set in the 1960s, this novel follows Elizabeth Zott, a brilliant chemist who becomes an unlikely television cooking show host, challenging societal norms and inspiring women to change the status quo.",
     rating: 4.45,
     emoji: "🧪👩‍🔬📺🍳👓",
+    image: "/lessonsinchemistry.jpeg"
   },
   {
     id: 3,
@@ -22,6 +24,7 @@ export const items = [
       "This novel follows the life and career of Evelyn Hugo, a reclusive Hollywood icon who finally decides to tell her story, revealing the secrets behind her seven marriages and her rise to stardom.",
     rating: 4.6,
     emoji: "🎬💍👩‍🦳",
+    image: "/sevenhusbands.jpeg"
   },
   {
     id: 4,
@@ -30,6 +33,7 @@ export const items = [
       "A lone astronaut must save humanity from an extinction-level threat in this gripping science fiction novel, filled with suspense, humor, and scientific ingenuity.",
     rating: 4.52,
     emoji: "🚀🧑‍🔬🦠👽💪",
+    image: "/projecthailmary.jpeg"
   },
   {
     id: 5,
@@ -38,6 +42,7 @@ export const items = [
       "A heartwarming story about a lonely widow who forms an unlikely friendship with a giant Pacific octopus at the local aquarium, uncovering secrets and finding hope in unexpected places.",
     rating: 4.5,
     emoji: "🐙🌊👩‍🦳",
+    image: "/remarkablybrightcreatures.jpeg"
   },
   {
     id: 6,
@@ -46,6 +51,7 @@ export const items = [
       "A gripping psychological thriller about a housemaid who discovers a dark secret while working for a wealthy family.",
     rating: 4.3,
     emoji: "🧹🧼👩‍💼🏨",
+    image: "/themaids.jpeg"
   },
   {
     id: 7,
@@ -54,6 +60,7 @@ export const items = [
       "A whimsical and heartwarming tale of a young man who takes a job at a mysterious island school for magical children.",
     rating: 4.4,
     emoji: "🏝️🏡🕶️👹✨",
+    image: "/houseintheceruleansea.jpeg"
   },
   {
     id: 8,
@@ -62,6 +69,7 @@ export const items = [
       "A mind-bending science fiction thriller that explores alternate realities and the choices that define our lives.",
     rating: 4.15,
     emoji: "🌌🚪🧠🏃‍♂️",
+    image: "/darkmatter.jpeg"
   },
   {
     id: 9,
@@ -70,6 +78,7 @@ export const items = [
       "A thought-provoking novel about a woman who finds herself in a library between life and death, exploring the infinite possibilities of the choices we make.",
     rating: 4.05,
     emoji: "📚🌙🚪",
+    image: "/midnightlibrary.jpeg"
   },
   {
     id: 10,
@@ -78,6 +87,7 @@ export const items = [
       "A haunting tale of a young woman who makes a deal with the devil and must live with the consequences of her choice.",
     rating: 4.35,
     emoji: "👻🎭🧝‍♀️",
+    image: "/invisiblelife.jpeg"
   },
   {
     id: 11,
@@ -86,6 +96,7 @@ export const items = [
       "A heartwarming story about a grumpy old man who learns to open his heart and find joy in unexpected places.",
     rating: 4.4,
     emoji: "👴🏠❤️",
+    image: "/mancalledove.jpeg"
   },
   {
     id: 12,
@@ -94,6 +105,7 @@ export const items = [
       "A powerful novel about the lives of three women during World War II, exploring themes of friendship, sacrifice, and the strength of the human spirit.",
     rating: 4.45,
     emoji: "🚁👩‍⚕️🎖️❤️‍🩹🏥",
+    image: "/thewomen.jpeg"
   },
   {
     id: 13,
@@ -102,6 +114,7 @@ export const items = [
       " A heartwarming and thought-provoking novel set in a small Tokyo café where customers can travel back in time, but only for the duration of their coffee.",
     rating: 4.05,
     emoji: "☕⏳🕰️😢🏃‍♀️",
+    image: "/beforethecoffee.jpeg"
   },
   {
     id: 14,
@@ -110,6 +123,7 @@ export const items = [
       "A gripping and thought-provoking novel that explores themes of identity, cultural appropriation, and the consequences of our actions in the literary world.",
     rating: 3.85,
     emoji: "💻📝🤫🎭😱",
+    image: "/yellowface.jpeg"
   },
   {
     id: 15,
@@ -118,5 +132,6 @@ export const items = [
       "A dark and gripping novel that follows a group of elite college students who become embroiled in a   murderous plot, exploring themes of obsession, morality, and the consequences of their actions.",
     rating: 4.1,
     emoji: "🏛️📚🔪🕵️‍♂️",
+    image: "/secrethistory.jpeg"
   },
 ];
