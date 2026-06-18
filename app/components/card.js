@@ -1,7 +1,7 @@
 import Image from "next/image";
 import styles from "./card.module.css";
 import LikeButton from "./LikeButton";
-import Link from "next/link"; // 👈 Add this import
+import Link from "next/link";
 
 export default function Card({ id, name, blurb, rating, emoji, image }) {
   return (

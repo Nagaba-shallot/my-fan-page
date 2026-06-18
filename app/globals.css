@@ -1,26 +1,37 @@
-
-h1{
-  background-color: blueviolet;
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-  font-size: large;
-  font-weight: bold;
-  font-style: italic;
+h1 {
+  font-size: 6.5rem; 
+  font-weight: 700;
   text-align: center;
-  color: white;
+  color: #ffb900; 
+  text-shadow: 0 2px 5px rgba(0, 0, 0, 0.6); 
+  padding: 24px 0;
+  letter-spacing: 1.5px;
 }
-p{
+
+p {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  font-size: medium;
+  font-size: large;
   font-weight: normal;
   font-style: normal;
   text-align: center;
-  color: black;
+  color: #ffb900;
 }
+
 a {
-  text-decoration: none;
+  text-decoration: none; 
   color: inherit;
 }
 
 a:hover h2 {
   text-decoration: underline;
 }
+
+body {
+  background-image: url('/background.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: #f3f4f6;
+}
+
