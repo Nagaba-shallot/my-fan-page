@@ -5,7 +5,13 @@ export default function Card({ name, blurb, rating, emoji, image }) {
   return (
     <article className={styles.card}>
       {image ? (
-        <Image src={image} alt={name} width={240} height={140} />
+        <div className={styles.imageContainer}>
+          <Image 
+            src={image} 
+            alt={name}
+            fill
+            sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" />
+        </div>
       ) : (
         <div className={styles.emoji}>{emoji}</div>
       )}

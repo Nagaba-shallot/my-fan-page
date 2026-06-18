@@ -5,10 +5,33 @@
     padding: 1.5rem;
     box-shadow: 0 4px 14px rgba(0, 0, 0, 0.06);
     transition: transform 0.15s ease, box-shadow 0.15s ease;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
 }
+
 .card:hover {
     transform: translateY(-4px);
     box-shadow: 0 10px 24px rgba(0, 0, 0, 0.12);
 }
-.emoji { font-size:2.5rem;}
-.stars{color:#f5a623;}
+
+.emoji {
+  font-size:2.5rem;
+}
+
+.stars{
+  color:#f5a623;
+}
+
+.imageContainer {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 2 / 3;
+  overflow: hidden;
+}
+
+.imageContainer img {
+  object-fit: cover; 
+  width: 100%;
+  height: 100%;
+}

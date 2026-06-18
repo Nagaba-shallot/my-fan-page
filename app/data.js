@@ -132,6 +132,6 @@ export const items = [
       "A dark and gripping novel that follows a group of elite college students who become embroiled in a   murderous plot, exploring themes of obsession, morality, and the consequences of their actions.",
     rating: 4.1,
     emoji: "🏛️📚🔪🕵️‍♂️",
-    image: "/secrethistory.jpeg"
+    image: "/secrethistory.jpg"
   },
 ];

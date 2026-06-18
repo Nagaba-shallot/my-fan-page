@@ -16,3 +16,11 @@ p{
   text-align: center;
   color: black;
 }
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+a:hover h2 {
+  text-decoration: underline;
+}
